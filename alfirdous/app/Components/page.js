@@ -72,10 +72,8 @@ export default function Home() {
 
       {/* About Us Section */}
       <section
-        id="about-us"
-        
+        id="about-us"     
       >
-        
         <div className="mt-12">
           <Aboutus />
         </div>
