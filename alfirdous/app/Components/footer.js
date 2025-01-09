@@ -1,3 +1,4 @@
+"use client";
 import React from 'react';
 import { FaTiktok, FaInstagram, FaPhoneAlt, FaEnvelope } from 'react-icons/fa';
 
